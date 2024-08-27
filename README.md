@@ -8,7 +8,7 @@ The Image Caption Generation project aims to automatically generate descriptive 
 
 ## Clone Repo
 ```bash
-git clone https://github.com/imsalik/image_captions_generation.git
+git clone https://github.com/mfumer/image-captioning
 ```
   
 ## Model Architecture
